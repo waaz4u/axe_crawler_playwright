@@ -1,8 +1,8 @@
 {
 	"id": "ygEw41XIV3Nw9Hz",
-	"json": "{\"id\":\"ygEw41XIV3Nw9Hz\",\"url\":\"https://playwright.dev/dotnet/docs/api/class-playwright\",\"uniqueKey\":\"https://playwright.dev/dotnet/docs/api/class-playwright\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"json": "{\"id\":\"ygEw41XIV3Nw9Hz\",\"url\":\"https://playwright.dev/dotnet/docs/api/class-playwright\",\"loadedUrl\":\"https://playwright.dev/dotnet/docs/api/class-playwright\",\"uniqueKey\":\"https://playwright.dev/dotnet/docs/api/class-playwright\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-04-12T14:23:31.394Z\"}",
 	"method": "GET",
-	"orderNo": 1744463492614,
+	"orderNo": null,
 	"retryCount": 0,
 	"uniqueKey": "https://playwright.dev/dotnet/docs/api/class-playwright",
 	"url": "https://playwright.dev/dotnet/docs/api/class-playwright"

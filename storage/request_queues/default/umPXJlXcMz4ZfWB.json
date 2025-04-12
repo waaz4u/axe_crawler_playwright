@@ -1,0 +1,9 @@
+{
+	"id": "umPXJlXcMz4ZfWB",
+	"json": "{\"id\":\"umPXJlXcMz4ZfWB\",\"url\":\"https://playwright.dev/java/docs/api/class-framelocator\",\"uniqueKey\":\"https://playwright.dev/java/docs/api/class-framelocator\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1744467809961,
+	"retryCount": 0,
+	"uniqueKey": "https://playwright.dev/java/docs/api/class-framelocator",
+	"url": "https://playwright.dev/java/docs/api/class-framelocator"
+}

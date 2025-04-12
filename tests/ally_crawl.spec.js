@@ -34,7 +34,7 @@ const crawler = new PlaywrightCrawler({
         // log.info(`Enqueued links from ${request.url}`);
     },
 
-    // Uncomment this option to see the browser window.
+    // Uncomment below option to see the browser window.
     // headless: false,
 
     // Let's limit our crawls to make our tests shorter and safer.

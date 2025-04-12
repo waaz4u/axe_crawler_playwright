@@ -1,8 +1,8 @@
 {
 	"id": "ZhB59nEVIeM8cZd",
-	"json": "{\"id\":\"ZhB59nEVIeM8cZd\",\"url\":\"https://playwright.dev/community/learn-videos\",\"uniqueKey\":\"https://playwright.dev/community/learn-videos\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"json": "{\"id\":\"ZhB59nEVIeM8cZd\",\"url\":\"https://playwright.dev/community/learn-videos\",\"loadedUrl\":\"https://playwright.dev/community/learn-videos\",\"uniqueKey\":\"https://playwright.dev/community/learn-videos\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-04-12T14:23:33.976Z\"}",
 	"method": "GET",
-	"orderNo": 1744463491360,
+	"orderNo": null,
 	"retryCount": 0,
 	"uniqueKey": "https://playwright.dev/community/learn-videos",
 	"url": "https://playwright.dev/community/learn-videos"

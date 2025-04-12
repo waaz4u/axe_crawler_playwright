@@ -1,0 +1,9 @@
+{
+	"id": "UmWSckwG2KqDCS4",
+	"json": "{\"id\":\"UmWSckwG2KqDCS4\",\"url\":\"https://playwright.dev/python/docs/api/class-apirequest\",\"uniqueKey\":\"https://playwright.dev/python/docs/api/class-apirequest\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1744467809068,
+	"retryCount": 0,
+	"uniqueKey": "https://playwright.dev/python/docs/api/class-apirequest",
+	"url": "https://playwright.dev/python/docs/api/class-apirequest"
+}

@@ -1,8 +1,8 @@
 {
 	"id": "dbFAb04izW9c17y",
-	"json": "{\"id\":\"dbFAb04izW9c17y\",\"url\":\"https://playwright.dev/dotnet/\",\"uniqueKey\":\"https://playwright.dev/dotnet\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"json": "{\"id\":\"dbFAb04izW9c17y\",\"url\":\"https://playwright.dev/dotnet/\",\"loadedUrl\":\"https://playwright.dev/dotnet/\",\"uniqueKey\":\"https://playwright.dev/dotnet\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-04-12T14:23:27.849Z\"}",
 	"method": "GET",
-	"orderNo": 1744463492610,
+	"orderNo": null,
 	"retryCount": 0,
 	"uniqueKey": "https://playwright.dev/dotnet",
 	"url": "https://playwright.dev/dotnet/"

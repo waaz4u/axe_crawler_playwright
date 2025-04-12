@@ -1,9 +1,9 @@
 {
 	"id": "4wBU6znLjBOBdWv",
-	"json": "{\"id\":\"4wBU6znLjBOBdWv\",\"url\":\"https://playwright.dev/docs/debug\",\"uniqueKey\":\"https://playwright.dev/docs/debug\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"json": "{\"id\":\"4wBU6znLjBOBdWv\",\"url\":\"https://playwright.dev/docs/debug#playwright-inspector\",\"loadedUrl\":\"https://playwright.dev/docs/debug#playwright-inspector\",\"uniqueKey\":\"https://playwright.dev/docs/debug\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-04-12T14:23:33.487Z\"}",
 	"method": "GET",
-	"orderNo": 1744463491341,
+	"orderNo": null,
 	"retryCount": 0,
 	"uniqueKey": "https://playwright.dev/docs/debug",
-	"url": "https://playwright.dev/docs/debug"
+	"url": "https://playwright.dev/docs/debug#playwright-inspector"
 }

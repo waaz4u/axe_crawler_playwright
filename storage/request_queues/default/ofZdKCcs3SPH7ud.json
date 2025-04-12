@@ -1,0 +1,9 @@
+{
+	"id": "ofZdKCcs3SPH7ud",
+	"json": "{\"id\":\"ofZdKCcs3SPH7ud\",\"url\":\"https://playwright.dev/java/docs/api/class-locator\",\"uniqueKey\":\"https://playwright.dev/java/docs/api/class-locator\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1744467809963,
+	"retryCount": 0,
+	"uniqueKey": "https://playwright.dev/java/docs/api/class-locator",
+	"url": "https://playwright.dev/java/docs/api/class-locator"
+}

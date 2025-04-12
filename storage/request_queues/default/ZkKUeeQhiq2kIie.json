@@ -1,8 +1,8 @@
 {
 	"id": "ZkKUeeQhiq2kIie",
-	"json": "{\"id\":\"ZkKUeeQhiq2kIie\",\"url\":\"https://playwright.dev/python/docs/api/class-playwright\",\"uniqueKey\":\"https://playwright.dev/python/docs/api/class-playwright\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"json": "{\"id\":\"ZkKUeeQhiq2kIie\",\"url\":\"https://playwright.dev/python/docs/api/class-playwright\",\"loadedUrl\":\"https://playwright.dev/python/docs/api/class-playwright\",\"uniqueKey\":\"https://playwright.dev/python/docs/api/class-playwright\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-04-12T14:23:29.179Z\"}",
 	"method": "GET",
-	"orderNo": 1744463493138,
+	"orderNo": null,
 	"retryCount": 0,
 	"uniqueKey": "https://playwright.dev/python/docs/api/class-playwright",
 	"url": "https://playwright.dev/python/docs/api/class-playwright"
