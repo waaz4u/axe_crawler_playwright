@@ -1,0 +1,9 @@
+{
+	"id": "uUO0OR5vOsnR7ke",
+	"json": "{\"id\":\"uUO0OR5vOsnR7ke\",\"url\":\"https://playwright.dev/docs/test-reporters\",\"uniqueKey\":\"https://playwright.dev/docs/test-reporters\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1744463491328,
+	"retryCount": 0,
+	"uniqueKey": "https://playwright.dev/docs/test-reporters",
+	"url": "https://playwright.dev/docs/test-reporters"
+}

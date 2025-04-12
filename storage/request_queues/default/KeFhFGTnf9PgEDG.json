@@ -1,0 +1,9 @@
+{
+	"id": "KeFhFGTnf9PgEDG",
+	"json": "{\"id\":\"KeFhFGTnf9PgEDG\",\"url\":\"https://playwright.dev/dotnet/docs/navigations\",\"uniqueKey\":\"https://playwright.dev/dotnet/docs/navigations\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1744463492630,
+	"retryCount": 0,
+	"uniqueKey": "https://playwright.dev/dotnet/docs/navigations",
+	"url": "https://playwright.dev/dotnet/docs/navigations"
+}

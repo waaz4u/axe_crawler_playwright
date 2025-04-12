@@ -1,0 +1,9 @@
+{
+	"id": "a6L11xcYSvD9PiZ",
+	"json": "{\"id\":\"a6L11xcYSvD9PiZ\",\"url\":\"https://playwright.dev/python/docs/locators\",\"uniqueKey\":\"https://playwright.dev/python/docs/locators\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1744463493149,
+	"retryCount": 0,
+	"uniqueKey": "https://playwright.dev/python/docs/locators",
+	"url": "https://playwright.dev/python/docs/locators"
+}

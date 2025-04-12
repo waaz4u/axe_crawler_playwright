@@ -1,0 +1,9 @@
+{
+	"id": "YqsObkaGgnf1v6m",
+	"json": "{\"id\":\"YqsObkaGgnf1v6m\",\"url\":\"https://playwright.dev/docs/navigations\",\"uniqueKey\":\"https://playwright.dev/docs/navigations\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1744463491354,
+	"retryCount": 0,
+	"uniqueKey": "https://playwright.dev/docs/navigations",
+	"url": "https://playwright.dev/docs/navigations"
+}

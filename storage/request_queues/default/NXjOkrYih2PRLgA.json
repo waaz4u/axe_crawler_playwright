@@ -1,0 +1,9 @@
+{
+	"id": "NXjOkrYih2PRLgA",
+	"json": "{\"id\":\"NXjOkrYih2PRLgA\",\"url\":\"https://playwright.dev/docs/ci-intro\",\"uniqueKey\":\"https://playwright.dev/docs/ci-intro\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1744463672684,
+	"retryCount": 0,
+	"uniqueKey": "https://playwright.dev/docs/ci-intro",
+	"url": "https://playwright.dev/docs/ci-intro"
+}

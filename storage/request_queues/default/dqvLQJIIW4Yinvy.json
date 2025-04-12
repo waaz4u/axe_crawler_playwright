@@ -1,0 +1,9 @@
+{
+	"id": "dqvLQJIIW4Yinvy",
+	"json": "{\"id\":\"dqvLQJIIW4Yinvy\",\"url\":\"https://playwright.dev/dotnet/docs/docker\",\"uniqueKey\":\"https://playwright.dev/dotnet/docs/docker\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1744463492661,
+	"retryCount": 0,
+	"uniqueKey": "https://playwright.dev/dotnet/docs/docker",
+	"url": "https://playwright.dev/dotnet/docs/docker"
+}

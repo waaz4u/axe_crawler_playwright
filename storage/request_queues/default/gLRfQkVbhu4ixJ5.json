@@ -1,0 +1,9 @@
+{
+	"id": "gLRfQkVbhu4ixJ5",
+	"json": "{\"id\":\"gLRfQkVbhu4ixJ5\",\"url\":\"https://playwright.dev/dotnet/docs/locators\",\"uniqueKey\":\"https://playwright.dev/dotnet/docs/locators\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1744463492628,
+	"retryCount": 0,
+	"uniqueKey": "https://playwright.dev/dotnet/docs/locators",
+	"url": "https://playwright.dev/dotnet/docs/locators"
+}

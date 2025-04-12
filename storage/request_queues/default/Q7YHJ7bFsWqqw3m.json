@@ -1,0 +1,9 @@
+{
+	"id": "Q7YHJ7bFsWqqw3m",
+	"json": "{\"id\":\"Q7YHJ7bFsWqqw3m\",\"url\":\"https://playwright.dev/java/docs/api/class-browsertype#browser-type-launch-option-headless\",\"uniqueKey\":\"https://playwright.dev/java/docs/api/class-browsertype\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1744463492389,
+	"retryCount": 0,
+	"uniqueKey": "https://playwright.dev/java/docs/api/class-browsertype",
+	"url": "https://playwright.dev/java/docs/api/class-browsertype#browser-type-launch-option-headless"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "XjKUqJtWbnGEpVs",
+	"json": "{\"id\":\"XjKUqJtWbnGEpVs\",\"url\":\"https://playwright.dev/docs/getting-started-vscode\",\"uniqueKey\":\"https://playwright.dev/docs/getting-started-vscode\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1744463672684,
+	"retryCount": 0,
+	"uniqueKey": "https://playwright.dev/docs/getting-started-vscode",
+	"url": "https://playwright.dev/docs/getting-started-vscode"
+}

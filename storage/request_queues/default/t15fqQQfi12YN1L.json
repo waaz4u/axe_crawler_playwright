@@ -1,0 +1,9 @@
+{
+	"id": "t15fqQQfi12YN1L",
+	"json": "{\"id\":\"t15fqQQfi12YN1L\",\"url\":\"https://playwright.dev/docs/api-testing\",\"uniqueKey\":\"https://playwright.dev/docs/api-testing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1744463491335,
+	"retryCount": 0,
+	"uniqueKey": "https://playwright.dev/docs/api-testing",
+	"url": "https://playwright.dev/docs/api-testing"
+}

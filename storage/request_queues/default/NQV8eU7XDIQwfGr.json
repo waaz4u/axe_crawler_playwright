@@ -1,0 +1,9 @@
+{
+	"id": "NQV8eU7XDIQwfGr",
+	"json": "{\"id\":\"NQV8eU7XDIQwfGr\",\"url\":\"https://playwright.dev/dotnet/docs/api-testing\",\"uniqueKey\":\"https://playwright.dev/dotnet/docs/api-testing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1744463492622,
+	"retryCount": 0,
+	"uniqueKey": "https://playwright.dev/dotnet/docs/api-testing",
+	"url": "https://playwright.dev/dotnet/docs/api-testing"
+}

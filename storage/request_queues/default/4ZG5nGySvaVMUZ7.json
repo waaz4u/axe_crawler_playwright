@@ -1,0 +1,9 @@
+{
+	"id": "4ZG5nGySvaVMUZ7",
+	"json": "{\"id\":\"4ZG5nGySvaVMUZ7\",\"url\":\"https://playwright.dev/docs/test-parameterize\",\"uniqueKey\":\"https://playwright.dev/docs/test-parameterize\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1744463492700,
+	"retryCount": 0,
+	"uniqueKey": "https://playwright.dev/docs/test-parameterize",
+	"url": "https://playwright.dev/docs/test-parameterize"
+}

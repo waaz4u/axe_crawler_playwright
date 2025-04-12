@@ -1,0 +1,9 @@
+{
+	"id": "wBHVnpBrcVgWWdW",
+	"json": "{\"id\":\"wBHVnpBrcVgWWdW\",\"url\":\"https://playwright.dev/dotnet/docs/intro\",\"loadedUrl\":\"https://playwright.dev/dotnet/docs/intro\",\"uniqueKey\":\"https://playwright.dev/dotnet/docs/intro\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-04-12T13:11:32.673Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://playwright.dev/dotnet/docs/intro",
+	"url": "https://playwright.dev/dotnet/docs/intro"
+}

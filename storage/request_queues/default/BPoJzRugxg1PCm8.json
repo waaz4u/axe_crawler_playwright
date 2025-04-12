@@ -1,0 +1,9 @@
+{
+	"id": "BPoJzRugxg1PCm8",
+	"json": "{\"id\":\"BPoJzRugxg1PCm8\",\"url\":\"https://playwright.dev/docs/evaluating\",\"loadedUrl\":\"https://playwright.dev/docs/evaluating\",\"uniqueKey\":\"https://playwright.dev/docs/evaluating\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-04-12T13:11:31.372Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://playwright.dev/docs/evaluating",
+	"url": "https://playwright.dev/docs/evaluating"
+}

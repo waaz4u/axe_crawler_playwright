@@ -1,0 +1,9 @@
+{
+	"id": "4wBU6znLjBOBdWv",
+	"json": "{\"id\":\"4wBU6znLjBOBdWv\",\"url\":\"https://playwright.dev/docs/debug\",\"uniqueKey\":\"https://playwright.dev/docs/debug\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1744463491341,
+	"retryCount": 0,
+	"uniqueKey": "https://playwright.dev/docs/debug",
+	"url": "https://playwright.dev/docs/debug"
+}

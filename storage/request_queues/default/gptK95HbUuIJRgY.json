@@ -1,0 +1,9 @@
+{
+	"id": "gptK95HbUuIJRgY",
+	"json": "{\"id\":\"gptK95HbUuIJRgY\",\"url\":\"https://playwright.dev/docs/actionability\",\"uniqueKey\":\"https://playwright.dev/docs/actionability\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1744463491336,
+	"retryCount": 0,
+	"uniqueKey": "https://playwright.dev/docs/actionability",
+	"url": "https://playwright.dev/docs/actionability"
+}

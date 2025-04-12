@@ -1,0 +1,9 @@
+{
+	"id": "GpNhrPdUrFd6bNN",
+	"json": "{\"id\":\"GpNhrPdUrFd6bNN\",\"url\":\"https://playwright.dev/docs/api/class-locatorassertions\",\"uniqueKey\":\"https://playwright.dev/docs/api/class-locatorassertions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1744463492239,
+	"retryCount": 0,
+	"uniqueKey": "https://playwright.dev/docs/api/class-locatorassertions",
+	"url": "https://playwright.dev/docs/api/class-locatorassertions"
+}

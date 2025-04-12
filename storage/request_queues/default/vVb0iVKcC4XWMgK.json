@@ -1,0 +1,9 @@
+{
+	"id": "vVb0iVKcC4XWMgK",
+	"json": "{\"id\":\"vVb0iVKcC4XWMgK\",\"url\":\"https://playwright.dev/docs/events\",\"uniqueKey\":\"https://playwright.dev/docs/events\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1744463491344,
+	"retryCount": 0,
+	"uniqueKey": "https://playwright.dev/docs/events",
+	"url": "https://playwright.dev/docs/events"
+}

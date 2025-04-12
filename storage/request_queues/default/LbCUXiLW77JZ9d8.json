@@ -1,0 +1,9 @@
+{
+	"id": "LbCUXiLW77JZ9d8",
+	"json": "{\"id\":\"LbCUXiLW77JZ9d8\",\"url\":\"https://playwright.dev/docs/api/class-websocketroute\",\"uniqueKey\":\"https://playwright.dev/docs/api/class-websocketroute\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1744463492237,
+	"retryCount": 0,
+	"uniqueKey": "https://playwright.dev/docs/api/class-websocketroute",
+	"url": "https://playwright.dev/docs/api/class-websocketroute"
+}

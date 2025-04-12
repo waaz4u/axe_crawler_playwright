@@ -1,0 +1,32 @@
+{
+  "name": "my-crawler",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "This is an example of a Crawlee project.",
+  "dependencies": {
+    "@axe-core/playwright": "^4.10.1",
+    "allure-playwright": "3.2.1",
+    "axe-core": "^4.10.3",
+    "axe-playwright": "^2.1.0",
+    "crawlee": "^3.0.0",
+    "puppeteer": "*"
+  },
+  
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "echo \"Error: oops, the actor has no tests yet, sad!\" && exit 1"
+  },
+  "author": "It's not you it's me",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.14.0",
+    "allure-playwright": "3.2.1",
+    "axe-core": "^4.10.3",
+    "axe-playwright": "2.1.0"
+  },
+  "main": "playwright.config.js",
+  "directories": {
+    "test": "tests"
+  }
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Y6WsZ5j3If7GXm8",
+	"json": "{\"id\":\"Y6WsZ5j3If7GXm8\",\"url\":\"https://playwright.dev/docs/emulation\",\"uniqueKey\":\"https://playwright.dev/docs/emulation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1744463672684,
+	"retryCount": 0,
+	"uniqueKey": "https://playwright.dev/docs/emulation",
+	"url": "https://playwright.dev/docs/emulation"
+}

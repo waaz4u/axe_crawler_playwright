@@ -1,0 +1,9 @@
+{
+	"id": "BNtORqCi8EEMzLY",
+	"json": "{\"id\":\"BNtORqCi8EEMzLY\",\"url\":\"https://playwright.dev/java/\",\"loadedUrl\":\"https://playwright.dev/java/\",\"uniqueKey\":\"https://playwright.dev/java\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-04-12T13:11:30.962Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://playwright.dev/java",
+	"url": "https://playwright.dev/java/"
+}
