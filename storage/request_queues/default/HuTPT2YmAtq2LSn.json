@@ -1,9 +1,0 @@
-{
-	"id": "HuTPT2YmAtq2LSn",
-	"json": "{\"id\":\"HuTPT2YmAtq2LSn\",\"url\":\"https://playwright.dev/python/docs/api/class-browsertype\",\"uniqueKey\":\"https://playwright.dev/python/docs/api/class-browsertype\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1744467809074,
-	"retryCount": 0,
-	"uniqueKey": "https://playwright.dev/python/docs/api/class-browsertype",
-	"url": "https://playwright.dev/python/docs/api/class-browsertype"
-}

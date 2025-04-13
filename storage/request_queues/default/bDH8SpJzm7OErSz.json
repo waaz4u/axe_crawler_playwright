@@ -1,9 +1,0 @@
-{
-	"id": "bDH8SpJzm7OErSz",
-	"json": "{\"id\":\"bDH8SpJzm7OErSz\",\"url\":\"https://playwright.dev/dotnet/docs/api/class-apiresponse\",\"uniqueKey\":\"https://playwright.dev/dotnet/docs/api/class-apiresponse\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1744467811305,
-	"retryCount": 0,
-	"uniqueKey": "https://playwright.dev/dotnet/docs/api/class-apiresponse",
-	"url": "https://playwright.dev/dotnet/docs/api/class-apiresponse"
-}

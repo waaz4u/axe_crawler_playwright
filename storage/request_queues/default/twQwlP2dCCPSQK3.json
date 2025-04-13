@@ -1,9 +1,0 @@
-{
-	"id": "twQwlP2dCCPSQK3",
-	"json": "{\"id\":\"twQwlP2dCCPSQK3\",\"url\":\"https://playwright.dev/python/docs/api/class-elementhandle\",\"uniqueKey\":\"https://playwright.dev/python/docs/api/class-elementhandle\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1744467809080,
-	"retryCount": 0,
-	"uniqueKey": "https://playwright.dev/python/docs/api/class-elementhandle",
-	"url": "https://playwright.dev/python/docs/api/class-elementhandle"
-}

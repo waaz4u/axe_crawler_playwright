@@ -1,9 +1,0 @@
-{
-	"id": "DqkpCCkRy33PI9J",
-	"json": "{\"id\":\"DqkpCCkRy33PI9J\",\"url\":\"https://playwright.dev/python/docs/api/class-locator\",\"uniqueKey\":\"https://playwright.dev/python/docs/api/class-locator\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1744467809097,
-	"retryCount": 0,
-	"uniqueKey": "https://playwright.dev/python/docs/api/class-locator",
-	"url": "https://playwright.dev/python/docs/api/class-locator"
-}

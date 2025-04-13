@@ -1,9 +1,0 @@
-{
-	"id": "cuQjNe1cuLIu1oZ",
-	"json": "{\"id\":\"cuQjNe1cuLIu1oZ\",\"url\":\"https://playwright.dev/python/docs/api/class-selectors\",\"uniqueKey\":\"https://playwright.dev/python/docs/api/class-selectors\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1744467809117,
-	"retryCount": 0,
-	"uniqueKey": "https://playwright.dev/python/docs/api/class-selectors",
-	"url": "https://playwright.dev/python/docs/api/class-selectors"
-}

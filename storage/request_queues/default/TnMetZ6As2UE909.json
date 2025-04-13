@@ -1,9 +1,0 @@
-{
-	"id": "TnMetZ6As2UE909",
-	"json": "{\"id\":\"TnMetZ6As2UE909\",\"url\":\"https://playwright.dev/java/docs/api/class-apirequest\",\"uniqueKey\":\"https://playwright.dev/java/docs/api/class-apirequest\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1744467809911,
-	"retryCount": 0,
-	"uniqueKey": "https://playwright.dev/java/docs/api/class-apirequest",
-	"url": "https://playwright.dev/java/docs/api/class-apirequest"
-}

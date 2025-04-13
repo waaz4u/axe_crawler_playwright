@@ -1,9 +1,0 @@
-{
-	"id": "uwya6KGzW4o3UfA",
-	"json": "{\"id\":\"uwya6KGzW4o3UfA\",\"url\":\"https://playwright.dev/dotnet/docs/api/class-websocket\",\"uniqueKey\":\"https://playwright.dev/dotnet/docs/api/class-websocket\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1744467811380,
-	"retryCount": 0,
-	"uniqueKey": "https://playwright.dev/dotnet/docs/api/class-websocket",
-	"url": "https://playwright.dev/dotnet/docs/api/class-websocket"
-}

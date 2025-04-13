@@ -1,9 +1,0 @@
-{
-	"id": "Y5z5Ft6gYf7umLG",
-	"json": "{\"id\":\"Y5z5Ft6gYf7umLG\",\"url\":\"https://playwright.dev/java/docs/api/class-request\",\"uniqueKey\":\"https://playwright.dev/java/docs/api/class-request\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1744467809970,
-	"retryCount": 0,
-	"uniqueKey": "https://playwright.dev/java/docs/api/class-request",
-	"url": "https://playwright.dev/java/docs/api/class-request"
-}

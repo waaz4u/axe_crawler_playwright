@@ -1,9 +1,0 @@
-{
-	"id": "n59YsFl1gsA0kUS",
-	"json": "{\"id\":\"n59YsFl1gsA0kUS\",\"url\":\"https://playwright.dev/java/docs/api/class-websocketframe\",\"uniqueKey\":\"https://playwright.dev/java/docs/api/class-websocketframe\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1744467809989,
-	"retryCount": 0,
-	"uniqueKey": "https://playwright.dev/java/docs/api/class-websocketframe",
-	"url": "https://playwright.dev/java/docs/api/class-websocketframe"
-}
