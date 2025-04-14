@@ -12,6 +12,5 @@ If you're looking for examples or want to learn more visit:
 ## axe-core
 Axe-core is an open-source accessibility testing library that helps identify and address accessibility issues in web applications.
 The web-based extension plugin is available from [Deque systems](https://www.deque.com/axe/) for manual testing.
-For More details on api-documentation and supported WCAG standards please visit this [link](https://www.deque.com/axe/core-documentation/api-documentation/)
 - [Documentation](https://www.deque.com/axe/core-documentation/)
-
+- [api-docmentation & supported WCAG standards](https://www.deque.com/axe/core-documentation/api-documentation/)
