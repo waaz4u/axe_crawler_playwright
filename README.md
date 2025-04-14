@@ -1,5 +1,5 @@
 
-# Playwright + JavaScript + PuppeteerCrawler + axe-core project:
+# Playwright + JavaScript + PuppeteerCrawler + axe-core prototype:
 This template is a production ready boilerplate for developing with `PuppeteerCrawler`. 
 
 Crawler crawls through home page and starts generating list of url's within website. Use axe plugin to then analyse each url for wcag standards.
