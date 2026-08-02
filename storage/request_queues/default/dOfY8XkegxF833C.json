@@ -1,0 +1,9 @@
+{
+	"id": "dOfY8XkegxF833C",
+	"json": "{\"id\":\"dOfY8XkegxF833C\",\"url\":\"https://82445d13-0a6e-40bd-b23f-00deb3f595d3.apps.figr.design/patterns/confirmation\",\"loadedUrl\":\"https://82445d13-0a6e-40bd-b23f-00deb3f595d3.apps.figr.design/patterns/confirmation\",\"uniqueKey\":\"https://82445d13-0a6e-40bd-b23f-00deb3f595d3.apps.figr.design/patterns/confirmation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-08-01T22:50:25.511Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://82445d13-0a6e-40bd-b23f-00deb3f595d3.apps.figr.design/patterns/confirmation",
+	"url": "https://82445d13-0a6e-40bd-b23f-00deb3f595d3.apps.figr.design/patterns/confirmation"
+}

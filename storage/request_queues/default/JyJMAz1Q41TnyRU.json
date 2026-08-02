@@ -1,0 +1,9 @@
+{
+	"id": "JyJMAz1Q41TnyRU",
+	"json": "{\"id\":\"JyJMAz1Q41TnyRU\",\"url\":\"https://82445d13-0a6e-40bd-b23f-00deb3f595d3.apps.figr.design/patterns/payment-sheet\",\"loadedUrl\":\"https://82445d13-0a6e-40bd-b23f-00deb3f595d3.apps.figr.design/patterns/payment-sheet\",\"uniqueKey\":\"https://82445d13-0a6e-40bd-b23f-00deb3f595d3.apps.figr.design/patterns/payment-sheet\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-08-01T22:50:31.167Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://82445d13-0a6e-40bd-b23f-00deb3f595d3.apps.figr.design/patterns/payment-sheet",
+	"url": "https://82445d13-0a6e-40bd-b23f-00deb3f595d3.apps.figr.design/patterns/payment-sheet"
+}

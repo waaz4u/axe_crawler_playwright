@@ -1,0 +1,9 @@
+{
+	"id": "E7gqz8oNQA0G4nF",
+	"json": "{\"id\":\"E7gqz8oNQA0G4nF\",\"url\":\"https://82445d13-0a6e-40bd-b23f-00deb3f595d3.apps.figr.design/patterns/review-before-submit\",\"loadedUrl\":\"https://82445d13-0a6e-40bd-b23f-00deb3f595d3.apps.figr.design/patterns/review-before-submit\",\"uniqueKey\":\"https://82445d13-0a6e-40bd-b23f-00deb3f595d3.apps.figr.design/patterns/review-before-submit\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-08-01T22:50:32.684Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://82445d13-0a6e-40bd-b23f-00deb3f595d3.apps.figr.design/patterns/review-before-submit",
+	"url": "https://82445d13-0a6e-40bd-b23f-00deb3f595d3.apps.figr.design/patterns/review-before-submit"
+}

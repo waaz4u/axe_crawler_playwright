@@ -1,0 +1,9 @@
+{
+	"id": "HOrKRF5zOs45lax",
+	"json": "{\"id\":\"HOrKRF5zOs45lax\",\"url\":\"https://82445d13-0a6e-40bd-b23f-00deb3f595d3.apps.figr.design/forms/multi-select\",\"loadedUrl\":\"https://82445d13-0a6e-40bd-b23f-00deb3f595d3.apps.figr.design/forms/multi-select\",\"uniqueKey\":\"https://82445d13-0a6e-40bd-b23f-00deb3f595d3.apps.figr.design/forms/multi-select\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-08-01T22:50:25.182Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://82445d13-0a6e-40bd-b23f-00deb3f595d3.apps.figr.design/forms/multi-select",
+	"url": "https://82445d13-0a6e-40bd-b23f-00deb3f595d3.apps.figr.design/forms/multi-select"
+}

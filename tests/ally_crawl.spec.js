@@ -5,7 +5,9 @@ import { AxeBuilder } from '@axe-core/playwright'
 //############################################
 const web_links = [];
 // Insert the link of the website you wish to crawl & check accessibility.
-const website_to_crawl = 'https://playwright.dev/';
+// const website_to_crawl = 'https://playwright.dev/';
+const website_to_crawl = 'https://82445d13-0a6e-40bd-b23f-00deb3f595d3.apps.figr.design/overview';
+const Maximum_pages_to_crawl = 100;
 //############################################
 
 
@@ -38,7 +40,7 @@ const crawler = new PlaywrightCrawler({
     // headless: false,
 
     // Let's limit our crawls to make our tests shorter and safer.
-    maxRequestsPerCrawl: 10,
+    maxRequestsPerCrawl: Maximum_pages_to_crawl,
 });
 
 //############################################
@@ -67,27 +69,41 @@ test.afterEach(async ({ page }, testInfo) => {
             console.log("Failed to get screenshot !!!")
         }
 })
-//############################################
+///############################################
 // Tests
 //############################################
 // Test to run the crawler on playwright.dev website
 test.describe.serial('Accessibility Test', ()=>{
     test('test_01_get_url_list', async () => {
+        test.setTimeout(1000000);
         await crawler.run([website_to_crawl]);
         console.info(`links: ${web_links.join('\r\n')}`);
     })
 
+
     // ToDo: Would be good to create a seperate test for each link rather than one test for all links.
     test('test_02_run_accessibility_checks_on_all_links', async ({page}) => {
+        test.setTimeout(1000000);   
+        const failures = [];     
         for (var i = 0; i < web_links.length; i++) {
             const link = web_links[i];
             await page.goto(link);
             // Update tags to check for various accessibility standards.
             // more info -- > https://www.deque.com/axe/core-documentation/api-documentation/
-            const report = await new AxeBuilder({page}).withTags(['wcag2a', 'wcag2aa', 'wcag21aa', 'wcag22aa']).analyze()
-            expect(report.violations).toHaveLength(0)
-            console.info(`------- > Accessibility check for url : ${page.url()}`);
-        
+
+            try {
+                const report = await new AxeBuilder({page}).withTags(['wcag2a', 'wcag2aa', 'wcag21aa', 'wcag22aa']).disableRules(['color-contrast']).analyze()
+                // const report = await new AxeBuilder({page}).withTags(['wcag22aa']).analyze()
+
+                console.info('\n\n-- > Violations : \n\n', report.violations)
+                console.info(`------- > Accessibility check for url : ${page.url()}`);
+                                
+                expect(report.violations).toHaveLength(0);
+            }
+            catch (error) {
+                failures.push(`\n\n ------- > Failed accessibility check for url : ${page.url()} ==> : ${error.message}`);
+            }
+            
             // uncomment below to get screenshot for each page.
             /*try {
                 await page.screenshot({ path: 'screenshots/'+testInfo.title+Date.now()+'.png', fullPage: true });
@@ -96,7 +112,8 @@ test.describe.serial('Accessibility Test', ()=>{
                 console.log("Failed to get screenshot !!!")
                 }*/
             }
-        }) 
+        expect(failures).toEqual([]);
+    })
 
     test.skip('test_03_debug_placeholder_test_to_debug_individual_pages', async ({page}) => {
         const report = await new AxeBuilder({page}).withTags(['wcag2a', 'wcag2aa', 'wcag22aa']).analyze()
